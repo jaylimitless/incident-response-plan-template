@@ -1,4 +1,4 @@
-## Role: Incident MasterMaster (IC)
+## Role: Incident Commander (IC)
 
 ### Description
 
